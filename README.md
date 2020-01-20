@@ -21,7 +21,7 @@ vagrant up
 ```
 Navigate to localhost:*8080* (for the frontend)
 
-The *server* running on port 8888 by default
+The *server* runs on port 8888 by default
 
 # How thing works
 * Basic REST API using VertX
@@ -34,11 +34,11 @@ The *server* running on port 8888 by default
     * Can be fix with polling and batching
     * http2 streaming can be more efficient (but some cloud providers have not supported it)
 
-* The frontend just update everything
+* The frontend just updates everything on receiving notification
     * -> inefficient
     * Can use delta patching instead
-        * soundness problem as it needs correct order in both websocket
-        and http request
+        * soundness problem as it needs to send and receive packets in correct order for both websocket
+        and http protocol -> need message queue/broker...
         * time consuming
         * polling + batching is better but I just want it to be simple
         enough here
