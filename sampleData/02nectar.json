@@ -1,0 +1,402 @@
+[
+  {
+    "beeId": 5,
+    "amount": "1.7624"
+  },
+  {
+    "beeId": 53,
+    "amount": "2.8913"
+  },
+  {
+    "beeId": 88,
+    "amount": "1.566"
+  },
+  {
+    "beeId": 20,
+    "amount": "2.7441"
+  },
+  {
+    "beeId": 19,
+    "amount": "3.3336"
+  },
+  {
+    "beeId": 100,
+    "amount": "1.7491"
+  },
+  {
+    "beeId": 63,
+    "amount": "1.9238"
+  },
+  {
+    "beeId": 95,
+    "amount": "4.7597"
+  },
+  {
+    "beeId": 77,
+    "amount": "2.5185"
+  },
+  {
+    "beeId": 78,
+    "amount": "3.3872"
+  },
+  {
+    "beeId": 77,
+    "amount": "1.8121"
+  },
+  {
+    "beeId": 98,
+    "amount": "4.9045"
+  },
+  {
+    "beeId": 49,
+    "amount": "1.7334"
+  },
+  {
+    "beeId": 89,
+    "amount": "2.49"
+  },
+  {
+    "beeId": 59,
+    "amount": "2.6515"
+  },
+  {
+    "beeId": 72,
+    "amount": "4.2338"
+  },
+  {
+    "beeId": 17,
+    "amount": "1.6687"
+  },
+  {
+    "beeId": 76,
+    "amount": "2.1983"
+  },
+  {
+    "beeId": 5,
+    "amount": "1.682"
+  },
+  {
+    "beeId": 8,
+    "amount": "1.6674"
+  },
+  {
+    "beeId": 20,
+    "amount": "2.896"
+  },
+  {
+    "beeId": 59,
+    "amount": "2.2674"
+  },
+  {
+    "beeId": 55,
+    "amount": "3.0801"
+  },
+  {
+    "beeId": 75,
+    "amount": "2.3504"
+  },
+  {
+    "beeId": 55,
+    "amount": "3.7454"
+  },
+  {
+    "beeId": 23,
+    "amount": "4.8835"
+  },
+  {
+    "beeId": 53,
+    "amount": "2.2369"
+  },
+  {
+    "beeId": 93,
+    "amount": "1.0849"
+  },
+  {
+    "beeId": 76,
+    "amount": "3.6849"
+  },
+  {
+    "beeId": 17,
+    "amount": "1.1042"
+  },
+  {
+    "beeId": 35,
+    "amount": "4.9943"
+  },
+  {
+    "beeId": 96,
+    "amount": "3.2818"
+  },
+  {
+    "beeId": 54,
+    "amount": "2.3965"
+  },
+  {
+    "beeId": 59,
+    "amount": "3.7305"
+  },
+  {
+    "beeId": 72,
+    "amount": "4.4829"
+  },
+  {
+    "beeId": 36,
+    "amount": "4.9829"
+  },
+  {
+    "beeId": 8,
+    "amount": "1.4872"
+  },
+  {
+    "beeId": 97,
+    "amount": "3.6098"
+  },
+  {
+    "beeId": 95,
+    "amount": "4.6537"
+  },
+  {
+    "beeId": 86,
+    "amount": "2.2249"
+  },
+  {
+    "beeId": 86,
+    "amount": "4.8236"
+  },
+  {
+    "beeId": 7,
+    "amount": "2.5603"
+  },
+  {
+    "beeId": 19,
+    "amount": "1.8445"
+  },
+  {
+    "beeId": 31,
+    "amount": "4.9698"
+  },
+  {
+    "beeId": 11,
+    "amount": "4.2418"
+  },
+  {
+    "beeId": 70,
+    "amount": "3.2399"
+  },
+  {
+    "beeId": 23,
+    "amount": "3.9932"
+  },
+  {
+    "beeId": 61,
+    "amount": "3.299"
+  },
+  {
+    "beeId": 58,
+    "amount": "1.4796"
+  },
+  {
+    "beeId": 9,
+    "amount": "1.041"
+  },
+  {
+    "beeId": 27,
+    "amount": "1.9114"
+  },
+  {
+    "beeId": 36,
+    "amount": "2.8707"
+  },
+  {
+    "beeId": 90,
+    "amount": "4.1633"
+  },
+  {
+    "beeId": 41,
+    "amount": "2.6381"
+  },
+  {
+    "beeId": 100,
+    "amount": "2.9418"
+  },
+  {
+    "beeId": 39,
+    "amount": "4.9315"
+  },
+  {
+    "beeId": 1,
+    "amount": "1.3436"
+  },
+  {
+    "beeId": 12,
+    "amount": "2.2427"
+  },
+  {
+    "beeId": 39,
+    "amount": "4.0918"
+  },
+  {
+    "beeId": 25,
+    "amount": "1.7106"
+  },
+  {
+    "beeId": 32,
+    "amount": "2.42"
+  },
+  {
+    "beeId": 82,
+    "amount": "4.8661"
+  },
+  {
+    "beeId": 65,
+    "amount": "3.0469"
+  },
+  {
+    "beeId": 94,
+    "amount": "2.8257"
+  },
+  {
+    "beeId": 62,
+    "amount": "4.8757"
+  },
+  {
+    "beeId": 78,
+    "amount": "1.1356"
+  },
+  {
+    "beeId": 33,
+    "amount": "4.9083"
+  },
+  {
+    "beeId": 80,
+    "amount": "1.7493"
+  },
+  {
+    "beeId": 28,
+    "amount": "4.9326"
+  },
+  {
+    "beeId": 33,
+    "amount": "1.056"
+  },
+  {
+    "beeId": 93,
+    "amount": "4.8599"
+  },
+  {
+    "beeId": 78,
+    "amount": "1.1117"
+  },
+  {
+    "beeId": 73,
+    "amount": "4.2047"
+  },
+  {
+    "beeId": 74,
+    "amount": "1.7058"
+  },
+  {
+    "beeId": 56,
+    "amount": "4.0243"
+  },
+  {
+    "beeId": 31,
+    "amount": "2.2631"
+  },
+  {
+    "beeId": 67,
+    "amount": "3.5801"
+  },
+  {
+    "beeId": 12,
+    "amount": "2.3553"
+  },
+  {
+    "beeId": 30,
+    "amount": "1.2878"
+  },
+  {
+    "beeId": 89,
+    "amount": "1.8629"
+  },
+  {
+    "beeId": 34,
+    "amount": "4.3097"
+  },
+  {
+    "beeId": 85,
+    "amount": "1.7639"
+  },
+  {
+    "beeId": 23,
+    "amount": "3.6123"
+  },
+  {
+    "beeId": 26,
+    "amount": "3.7124"
+  },
+  {
+    "beeId": 6,
+    "amount": "2.3961"
+  },
+  {
+    "beeId": 87,
+    "amount": "4.3125"
+  },
+  {
+    "beeId": 74,
+    "amount": "1.5865"
+  },
+  {
+    "beeId": 8,
+    "amount": "3.0422"
+  },
+  {
+    "beeId": 59,
+    "amount": "4.0215"
+  },
+  {
+    "beeId": 18,
+    "amount": "1.4223"
+  },
+  {
+    "beeId": 83,
+    "amount": "4.1469"
+  },
+  {
+    "beeId": 11,
+    "amount": "3.5408"
+  },
+  {
+    "beeId": 91,
+    "amount": "1.6623"
+  },
+  {
+    "beeId": 21,
+    "amount": "4.7263"
+  },
+  {
+    "beeId": 5,
+    "amount": "3.437"
+  },
+  {
+    "beeId": 35,
+    "amount": "1.4512"
+  },
+  {
+    "beeId": 33,
+    "amount": "1.5182"
+  },
+  {
+    "beeId": 97,
+    "amount": "2.3074"
+  },
+  {
+    "beeId": 93,
+    "amount": "3.7069"
+  },
+  {
+    "beeId": 56,
+    "amount": "3.4571"
+  }
+]

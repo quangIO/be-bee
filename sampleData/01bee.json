@@ -1,0 +1,902 @@
+[
+  {
+    "beeId": 1,
+    "speed": "1.304",
+    "latitude": "-24.208561",
+    "longitude": "75.652434",
+    "elevation": "22.3016",
+    "fuel": "24.9793",
+    "damage": "60.5635"
+  },
+  {
+    "beeId": 2,
+    "speed": "2.5958",
+    "latitude": "-52.539351",
+    "longitude": "-51.313079",
+    "elevation": "19.0283",
+    "fuel": "82.1551",
+    "damage": "0.6957"
+  },
+  {
+    "beeId": 3,
+    "speed": "2.1265",
+    "latitude": "42.9722",
+    "longitude": "-61.480208",
+    "elevation": "16.1365",
+    "fuel": "52.42",
+    "damage": "86.2535"
+  },
+  {
+    "beeId": 4,
+    "speed": "2.7525",
+    "latitude": "-84.743816",
+    "longitude": "-36.027272",
+    "elevation": "5.5069",
+    "fuel": "99.4241",
+    "damage": "59.5391"
+  },
+  {
+    "beeId": 5,
+    "speed": "2.5398",
+    "latitude": "-79.726562",
+    "longitude": "165.76786",
+    "elevation": "24.8709",
+    "fuel": "56.326",
+    "damage": "66.4693"
+  },
+  {
+    "beeId": 6,
+    "speed": "2.6985",
+    "latitude": "-45.163461",
+    "longitude": "-135.115884",
+    "elevation": "19.4092",
+    "fuel": "22.3818",
+    "damage": "55.4517"
+  },
+  {
+    "beeId": 7,
+    "speed": "1.4955",
+    "latitude": "52.974249",
+    "longitude": "-132.65977",
+    "elevation": "2.2922",
+    "fuel": "19.3499",
+    "damage": "84.7303"
+  },
+  {
+    "beeId": 8,
+    "speed": "1.6533",
+    "latitude": "19.453217",
+    "longitude": "-5.839784",
+    "elevation": "15.9195",
+    "fuel": "52.1901",
+    "damage": "24.8244"
+  },
+  {
+    "beeId": 9,
+    "speed": "1.8249",
+    "latitude": "-13.864064",
+    "longitude": "150.095558",
+    "elevation": "6.1948",
+    "fuel": "82.2549",
+    "damage": "38.1061"
+  },
+  {
+    "beeId": 10,
+    "speed": "2.5432",
+    "latitude": "72.616937",
+    "longitude": "86.855962",
+    "elevation": "14.8834",
+    "fuel": "50.3939",
+    "damage": "98.8465"
+  },
+  {
+    "beeId": 11,
+    "speed": "2.8124",
+    "latitude": "18.294257",
+    "longitude": "86.688563",
+    "elevation": "22.8737",
+    "fuel": "3.6527",
+    "damage": "33.5407"
+  },
+  {
+    "beeId": 12,
+    "speed": "1.2814",
+    "latitude": "-80.764142",
+    "longitude": "-57.352085",
+    "elevation": "19.5066",
+    "fuel": "59.2504",
+    "damage": "3.9195"
+  },
+  {
+    "beeId": 13,
+    "speed": "2.056",
+    "latitude": "-29.891993",
+    "longitude": "-120.889658",
+    "elevation": "5.3138",
+    "fuel": "50.1745",
+    "damage": "8.1858"
+  },
+  {
+    "beeId": 14,
+    "speed": "2.8078",
+    "latitude": "87.074245",
+    "longitude": "14.404172",
+    "elevation": "5.5414",
+    "fuel": "81.6802",
+    "damage": "69.2863"
+  },
+  {
+    "beeId": 15,
+    "speed": "1.1298",
+    "latitude": "31.656199",
+    "longitude": "143.888465",
+    "elevation": "24.1801",
+    "fuel": "29.9538",
+    "damage": "41.4353"
+  },
+  {
+    "beeId": 16,
+    "speed": "2.6392",
+    "latitude": "-86.945961",
+    "longitude": "91.359105",
+    "elevation": "27.0591",
+    "fuel": "37.5479",
+    "damage": "49.6195"
+  },
+  {
+    "beeId": 17,
+    "speed": "1.3757",
+    "latitude": "-70.574862",
+    "longitude": "46.594443",
+    "elevation": "8.5508",
+    "fuel": "36.8547",
+    "damage": "61.5304"
+  },
+  {
+    "beeId": 18,
+    "speed": "2.6251",
+    "latitude": "23.527145",
+    "longitude": "-81.560632",
+    "elevation": "8.478",
+    "fuel": "58.3257",
+    "damage": "44.9251"
+  },
+  {
+    "beeId": 19,
+    "speed": "2.7",
+    "latitude": "36.222563",
+    "longitude": "-179.97845",
+    "elevation": "25.2069",
+    "fuel": "13.4096",
+    "damage": "24.9332"
+  },
+  {
+    "beeId": 20,
+    "speed": "2.6822",
+    "latitude": "12.077367",
+    "longitude": "-59.96142",
+    "elevation": "19.8375",
+    "fuel": "11.685",
+    "damage": "65.8646"
+  },
+  {
+    "beeId": 21,
+    "speed": "1.1883",
+    "latitude": "-37.068187",
+    "longitude": "-91.48294",
+    "elevation": "27.5683",
+    "fuel": "10.6482",
+    "damage": "83.5714"
+  },
+  {
+    "beeId": 22,
+    "speed": "2.252",
+    "latitude": "-5.644493",
+    "longitude": "-4.202781",
+    "elevation": "18.9193",
+    "fuel": "76.3521",
+    "damage": "84.3417"
+  },
+  {
+    "beeId": 23,
+    "speed": "1.918",
+    "latitude": "-25.952213",
+    "longitude": "165.329007",
+    "elevation": "24.1153",
+    "fuel": "57.3333",
+    "damage": "84.4167"
+  },
+  {
+    "beeId": 24,
+    "speed": "2.8379",
+    "latitude": "50.039521",
+    "longitude": "-93.600657",
+    "elevation": "10.3487",
+    "fuel": "92.7775",
+    "damage": "61.4413"
+  },
+  {
+    "beeId": 25,
+    "speed": "1.8987",
+    "latitude": "61.002274",
+    "longitude": "87.946603",
+    "elevation": "21.7612",
+    "fuel": "23.0121",
+    "damage": "10.9704"
+  },
+  {
+    "beeId": 26,
+    "speed": "1.0329",
+    "latitude": "-21.34812",
+    "longitude": "-175.53532",
+    "elevation": "29.3552",
+    "fuel": "11.8487",
+    "damage": "59.0841"
+  },
+  {
+    "beeId": 27,
+    "speed": "2.2353",
+    "latitude": "72.665406",
+    "longitude": "69.436485",
+    "elevation": "24.435",
+    "fuel": "44.019",
+    "damage": "17.673"
+  },
+  {
+    "beeId": 28,
+    "speed": "2.0912",
+    "latitude": "-67.281964",
+    "longitude": "98.921361",
+    "elevation": "5.7544",
+    "fuel": "11.5132",
+    "damage": "41.7723"
+  },
+  {
+    "beeId": 29,
+    "speed": "1.1362",
+    "latitude": "20.666633",
+    "longitude": "116.936619",
+    "elevation": "9.5526",
+    "fuel": "95.3256",
+    "damage": "40.0866"
+  },
+  {
+    "beeId": 30,
+    "speed": "2.6184",
+    "latitude": "25.502213",
+    "longitude": "51.43341",
+    "elevation": "26.2754",
+    "fuel": "34.1017",
+    "damage": "66.508"
+  },
+  {
+    "beeId": 31,
+    "speed": "1.2852",
+    "latitude": "-83.484171",
+    "longitude": "18.715538",
+    "elevation": "28.8367",
+    "fuel": "32.7621",
+    "damage": "7.3817"
+  },
+  {
+    "beeId": 32,
+    "speed": "1.1492",
+    "latitude": "-72.284994",
+    "longitude": "166.389875",
+    "elevation": "19.6087",
+    "fuel": "75.2132",
+    "damage": "54.2205"
+  },
+  {
+    "beeId": 33,
+    "speed": "1.3851",
+    "latitude": "69.729901",
+    "longitude": "25.598483",
+    "elevation": "29.4354",
+    "fuel": "9.1729",
+    "damage": "66.2687"
+  },
+  {
+    "beeId": 34,
+    "speed": "1.5787",
+    "latitude": "35.526133",
+    "longitude": "136.134557",
+    "elevation": "8.0141",
+    "fuel": "0.7744",
+    "damage": "16.1191"
+  },
+  {
+    "beeId": 35,
+    "speed": "1.6542",
+    "latitude": "85.285746",
+    "longitude": "52.286081",
+    "elevation": "5.4088",
+    "fuel": "12.6532",
+    "damage": "28.539"
+  },
+  {
+    "beeId": 36,
+    "speed": "2.1413",
+    "latitude": "82.202172",
+    "longitude": "-55.577003",
+    "elevation": "6.2761",
+    "fuel": "87.1952",
+    "damage": "20.924"
+  },
+  {
+    "beeId": 37,
+    "speed": "2.2976",
+    "latitude": "58.300375",
+    "longitude": "53.634203",
+    "elevation": "22.485",
+    "fuel": "96.888",
+    "damage": "35.7535"
+  },
+  {
+    "beeId": 38,
+    "speed": "1.5063",
+    "latitude": "84.004787",
+    "longitude": "145.233238",
+    "elevation": "7.9986",
+    "fuel": "96.4723",
+    "damage": "0.4622"
+  },
+  {
+    "beeId": 39,
+    "speed": "2.2492",
+    "latitude": "-66.675244",
+    "longitude": "167.133489",
+    "elevation": "25.3247",
+    "fuel": "58.373",
+    "damage": "22.4177"
+  },
+  {
+    "beeId": 40,
+    "speed": "1.9279",
+    "latitude": "8.350032",
+    "longitude": "-59.436862",
+    "elevation": "26.1842",
+    "fuel": "89.5477",
+    "damage": "23.3456"
+  },
+  {
+    "beeId": 41,
+    "speed": "2.6262",
+    "latitude": "-59.5982",
+    "longitude": "54.940076",
+    "elevation": "18.1079",
+    "fuel": "96.2302",
+    "damage": "96.7901"
+  },
+  {
+    "beeId": 42,
+    "speed": "2.2411",
+    "latitude": "70.539159",
+    "longitude": "-13.607272",
+    "elevation": "23.6628",
+    "fuel": "74.4674",
+    "damage": "56.8422"
+  },
+  {
+    "beeId": 43,
+    "speed": "1.3925",
+    "latitude": "26.055793",
+    "longitude": "-3.813902",
+    "elevation": "24.65",
+    "fuel": "98.4879",
+    "damage": "6.7251"
+  },
+  {
+    "beeId": 44,
+    "speed": "1.8201",
+    "latitude": "18.447649",
+    "longitude": "70.596449",
+    "elevation": "6.0586",
+    "fuel": "8.1683",
+    "damage": "42.8637"
+  },
+  {
+    "beeId": 45,
+    "speed": "2.4555",
+    "latitude": "34.867111",
+    "longitude": "-36.67339",
+    "elevation": "8.211",
+    "fuel": "39.1352",
+    "damage": "76.2654"
+  },
+  {
+    "beeId": 46,
+    "speed": "2.7914",
+    "latitude": "88.511317",
+    "longitude": "-106.745136",
+    "elevation": "7.7402",
+    "fuel": "76.0586",
+    "damage": "82.0949"
+  },
+  {
+    "beeId": 47,
+    "speed": "1.1763",
+    "latitude": "-2.824343",
+    "longitude": "-162.140251",
+    "elevation": "27.9628",
+    "fuel": "82.5393",
+    "damage": "81.0342"
+  },
+  {
+    "beeId": 48,
+    "speed": "1.3498",
+    "latitude": "-25.288489",
+    "longitude": "-130.64067",
+    "elevation": "11.4689",
+    "fuel": "19.3052",
+    "damage": "21.9654"
+  },
+  {
+    "beeId": 49,
+    "speed": "1.3418",
+    "latitude": "-48.813646",
+    "longitude": "-177.27428",
+    "elevation": "18.4857",
+    "fuel": "56.508",
+    "damage": "7.7198"
+  },
+  {
+    "beeId": 50,
+    "speed": "1.138",
+    "latitude": "71.319597",
+    "longitude": "95.765002",
+    "elevation": "4.4588",
+    "fuel": "37.7147",
+    "damage": "75.6251"
+  },
+  {
+    "beeId": 51,
+    "speed": "2.8165",
+    "latitude": "85.570199",
+    "longitude": "155.955267",
+    "elevation": "1.6923",
+    "fuel": "21.4552",
+    "damage": "90.9482"
+  },
+  {
+    "beeId": 52,
+    "speed": "2.8934",
+    "latitude": "29.380373",
+    "longitude": "-76.642796",
+    "elevation": "10.8807",
+    "fuel": "21.5504",
+    "damage": "20.2418"
+  },
+  {
+    "beeId": 53,
+    "speed": "2.8703",
+    "latitude": "-52.616455",
+    "longitude": "70.195348",
+    "elevation": "16.011",
+    "fuel": "51.3129",
+    "damage": "88.6613"
+  },
+  {
+    "beeId": 54,
+    "speed": "1.1147",
+    "latitude": "16.707446",
+    "longitude": "-166.449588",
+    "elevation": "12.1164",
+    "fuel": "80.5781",
+    "damage": "67.6848"
+  },
+  {
+    "beeId": 55,
+    "speed": "2.6245",
+    "latitude": "55.334172",
+    "longitude": "158.889586",
+    "elevation": "27.9893",
+    "fuel": "41.5856",
+    "damage": "12.7371"
+  },
+  {
+    "beeId": 56,
+    "speed": "2.4689",
+    "latitude": "-27.987848",
+    "longitude": "-64.771304",
+    "elevation": "13.6373",
+    "fuel": "21.6421",
+    "damage": "86.5103"
+  },
+  {
+    "beeId": 57,
+    "speed": "1.0067",
+    "latitude": "-50.563677",
+    "longitude": "101.507732",
+    "elevation": "16.152",
+    "fuel": "35.6574",
+    "damage": "51.1093"
+  },
+  {
+    "beeId": 58,
+    "speed": "1.431",
+    "latitude": "-33.391561",
+    "longitude": "146.925608",
+    "elevation": "10.686",
+    "fuel": "67.6676",
+    "damage": "34.9741"
+  },
+  {
+    "beeId": 59,
+    "speed": "1.4582",
+    "latitude": "-57.474943",
+    "longitude": "-42.373005",
+    "elevation": "23.4815",
+    "fuel": "80.3752",
+    "damage": "11.5579"
+  },
+  {
+    "beeId": 60,
+    "speed": "1.1067",
+    "latitude": "71.384052",
+    "longitude": "-13.683873",
+    "elevation": "3.1315",
+    "fuel": "47.8761",
+    "damage": "90.4937"
+  },
+  {
+    "beeId": 61,
+    "speed": "2.6992",
+    "latitude": "-87.441084",
+    "longitude": "-72.637707",
+    "elevation": "10.7418",
+    "fuel": "77.9108",
+    "damage": "87.4932"
+  },
+  {
+    "beeId": 62,
+    "speed": "2.437",
+    "latitude": "-24.422875",
+    "longitude": "53.017058",
+    "elevation": "0.1769",
+    "fuel": "17.082",
+    "damage": "84.6638"
+  },
+  {
+    "beeId": 63,
+    "speed": "2.4588",
+    "latitude": "11.920172",
+    "longitude": "-119.724214",
+    "elevation": "12.6906",
+    "fuel": "78.7354",
+    "damage": "29.369"
+  },
+  {
+    "beeId": 64,
+    "speed": "1.9597",
+    "latitude": "82.027515",
+    "longitude": "-145.500768",
+    "elevation": "24.342",
+    "fuel": "70.525",
+    "damage": "57.2865"
+  },
+  {
+    "beeId": 65,
+    "speed": "2.0791",
+    "latitude": "-1.318886",
+    "longitude": "-32.043836",
+    "elevation": "16.1849",
+    "fuel": "18.4136",
+    "damage": "46.4864"
+  },
+  {
+    "beeId": 66,
+    "speed": "2.5208",
+    "latitude": "39.251695",
+    "longitude": "23.083845",
+    "elevation": "20.1067",
+    "fuel": "77.1544",
+    "damage": "3.0428"
+  },
+  {
+    "beeId": 67,
+    "speed": "1.1391",
+    "latitude": "19.077292",
+    "longitude": "121.74636",
+    "elevation": "16.7578",
+    "fuel": "30.1428",
+    "damage": "32.4318"
+  },
+  {
+    "beeId": 68,
+    "speed": "1.9443",
+    "latitude": "56.403244",
+    "longitude": "-144.781278",
+    "elevation": "13.1754",
+    "fuel": "11.56",
+    "damage": "98.7492"
+  },
+  {
+    "beeId": 69,
+    "speed": "2.4077",
+    "latitude": "19.938977",
+    "longitude": "-133.169072",
+    "elevation": "13.1283",
+    "fuel": "96.2593",
+    "damage": "76.0896"
+  },
+  {
+    "beeId": 70,
+    "speed": "2.3845",
+    "latitude": "29.955334",
+    "longitude": "144.856451",
+    "elevation": "28.4238",
+    "fuel": "12.5048",
+    "damage": "52.1814"
+  },
+  {
+    "beeId": 71,
+    "speed": "1.0003",
+    "latitude": "-39.250435",
+    "longitude": "104.713762",
+    "elevation": "15.6643",
+    "fuel": "28.6711",
+    "damage": "52.1512"
+  },
+  {
+    "beeId": 72,
+    "speed": "1.2548",
+    "latitude": "-50.304527",
+    "longitude": "-66.676833",
+    "elevation": "26.9537",
+    "fuel": "71.6914",
+    "damage": "90.5195"
+  },
+  {
+    "beeId": 73,
+    "speed": "2.1107",
+    "latitude": "7.553017",
+    "longitude": "-103.615593",
+    "elevation": "22.8702",
+    "fuel": "94.396",
+    "damage": "51.5973"
+  },
+  {
+    "beeId": 74,
+    "speed": "2.7606",
+    "latitude": "38.473314",
+    "longitude": "-10.487293",
+    "elevation": "13.865",
+    "fuel": "14.9141",
+    "damage": "35.7942"
+  },
+  {
+    "beeId": 75,
+    "speed": "1.1208",
+    "latitude": "7.589666",
+    "longitude": "5.626546",
+    "elevation": "25.1164",
+    "fuel": "74.9892",
+    "damage": "73.7697"
+  },
+  {
+    "beeId": 76,
+    "speed": "1.5918",
+    "latitude": "-38.273157",
+    "longitude": "-109.198557",
+    "elevation": "14.7757",
+    "fuel": "2.2794",
+    "damage": "77.2252"
+  },
+  {
+    "beeId": 77,
+    "speed": "2.2367",
+    "latitude": "-66.498352",
+    "longitude": "39.016181",
+    "elevation": "13.5432",
+    "fuel": "48.0453",
+    "damage": "47.6138"
+  },
+  {
+    "beeId": 78,
+    "speed": "2.7405",
+    "latitude": "-73.703161",
+    "longitude": "-136.405419",
+    "elevation": "14.3612",
+    "fuel": "15.1138",
+    "damage": "84.5494"
+  },
+  {
+    "beeId": 79,
+    "speed": "1.246",
+    "latitude": "-72.617995",
+    "longitude": "44.236734",
+    "elevation": "26.8593",
+    "fuel": "60.7006",
+    "damage": "83.4938"
+  },
+  {
+    "beeId": 80,
+    "speed": "1.4633",
+    "latitude": "29.567025",
+    "longitude": "5.651174",
+    "elevation": "9.3969",
+    "fuel": "81.7312",
+    "damage": "88.229"
+  },
+  {
+    "beeId": 81,
+    "speed": "2.1782",
+    "latitude": "-58.647822",
+    "longitude": "-79.401513",
+    "elevation": "26.6999",
+    "fuel": "2.6959",
+    "damage": "72.9006"
+  },
+  {
+    "beeId": 82,
+    "speed": "2.457",
+    "latitude": "1.700767",
+    "longitude": "157.458322",
+    "elevation": "28.6827",
+    "fuel": "3.6401",
+    "damage": "41.6944"
+  },
+  {
+    "beeId": 83,
+    "speed": "2.2135",
+    "latitude": "-89.55371",
+    "longitude": "50.730647",
+    "elevation": "5.4034",
+    "fuel": "80.4268",
+    "damage": "66.1796"
+  },
+  {
+    "beeId": 84,
+    "speed": "1.6304",
+    "latitude": "-80.841318",
+    "longitude": "101.136272",
+    "elevation": "21.5358",
+    "fuel": "88.4776",
+    "damage": "22.8866"
+  },
+  {
+    "beeId": 85,
+    "speed": "2.5189",
+    "latitude": "-67.448941",
+    "longitude": "62.409508",
+    "elevation": "19.0306",
+    "fuel": "95.1009",
+    "damage": "84.7826"
+  },
+  {
+    "beeId": 86,
+    "speed": "1.0406",
+    "latitude": "24.692429",
+    "longitude": "8.078165",
+    "elevation": "5.55",
+    "fuel": "6.0123",
+    "damage": "87.214"
+  },
+  {
+    "beeId": 87,
+    "speed": "1.9732",
+    "latitude": "79.289697",
+    "longitude": "1.932008",
+    "elevation": "9.0971",
+    "fuel": "27.5179",
+    "damage": "46.5134"
+  },
+  {
+    "beeId": 88,
+    "speed": "2.3212",
+    "latitude": "46.314531",
+    "longitude": "-169.555305",
+    "elevation": "8.4079",
+    "fuel": "8.7161",
+    "damage": "52.413"
+  },
+  {
+    "beeId": 89,
+    "speed": "1.5532",
+    "latitude": "-30.48497",
+    "longitude": "-142.8992",
+    "elevation": "13.0575",
+    "fuel": "27.5049",
+    "damage": "71.4795"
+  },
+  {
+    "beeId": 90,
+    "speed": "1.6586",
+    "latitude": "1.273558",
+    "longitude": "-173.924297",
+    "elevation": "8.6183",
+    "fuel": "31.4076",
+    "damage": "65.4278"
+  },
+  {
+    "beeId": 91,
+    "speed": "2.4007",
+    "latitude": "22.380685",
+    "longitude": "153.816361",
+    "elevation": "21.2091",
+    "fuel": "42.4502",
+    "damage": "15.4124"
+  },
+  {
+    "beeId": 92,
+    "speed": "2.0701",
+    "latitude": "-37.811614",
+    "longitude": "-63.12892",
+    "elevation": "0.8485",
+    "fuel": "19.4524",
+    "damage": "70.9625"
+  },
+  {
+    "beeId": 93,
+    "speed": "1.5636",
+    "latitude": "-64.627671",
+    "longitude": "-39.328075",
+    "elevation": "3.4171",
+    "fuel": "49.284",
+    "damage": "4.9911"
+  },
+  {
+    "beeId": 94,
+    "speed": "2.1953",
+    "latitude": "45.835831",
+    "longitude": "24.474667",
+    "elevation": "7.0254",
+    "fuel": "35.5419",
+    "damage": "0.2423"
+  },
+  {
+    "beeId": 95,
+    "speed": "2.1366",
+    "latitude": "70.800972",
+    "longitude": "71.50729",
+    "elevation": "19.6371",
+    "fuel": "21.0509",
+    "damage": "96.1642"
+  },
+  {
+    "beeId": 96,
+    "speed": "2.3789",
+    "latitude": "2.589829",
+    "longitude": "-123.762461",
+    "elevation": "16.6414",
+    "fuel": "31.4385",
+    "damage": "35.6934"
+  },
+  {
+    "beeId": 97,
+    "speed": "2.0499",
+    "latitude": "16.708543",
+    "longitude": "158.715314",
+    "elevation": "4.0167",
+    "fuel": "55.7097",
+    "damage": "18.463"
+  },
+  {
+    "beeId": 98,
+    "speed": "2.7501",
+    "latitude": "20.79854",
+    "longitude": "146.185289",
+    "elevation": "12.3199",
+    "fuel": "41.2393",
+    "damage": "84.2298"
+  },
+  {
+    "beeId": 99,
+    "speed": "1.4153",
+    "latitude": "54.622446",
+    "longitude": "-42.243839",
+    "elevation": "13.3872",
+    "fuel": "87.6309",
+    "damage": "79.8412"
+  },
+  {
+    "beeId": 100,
+    "speed": "1.4901",
+    "latitude": "-87.199541",
+    "longitude": "-68.691569",
+    "elevation": "28.906",
+    "fuel": "11.0072",
+    "damage": "49.341"
+  }
+]
