@@ -32,7 +32,7 @@ The *server* running on port 8888 by default
 * Uses websocket for notification
     * In case we have very frequent data updates -> we are doomed
     * Can be fix with polling and batching
-    * http2 streaming can be more efficient (but some cloud providers have not support it)
+    * http2 streaming can be more efficient (but some cloud providers have not supported it)
 
 * The frontend just update everything
     * -> inefficient
