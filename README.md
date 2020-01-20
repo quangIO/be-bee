@@ -42,3 +42,6 @@ The *server* running on port 8888 by default
         * time consuming
         * polling + batching is better but I just want it to be simple
         enough here
+
+* SQL is slow for analytics? Using ClickHouse instead of PostgreSQL will
+likely to work (need to change the dialect maybe?)
